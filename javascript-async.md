@@ -48,4 +48,5 @@ Generators are functions which can be exited and later re-entered. Their context
 ## 参考链接
 
 - https://github.com/vasanthk/async-javascript
+- http://www.ruanyifeng.com/blog/2015/05/async.html
 - http://callbackhell.com/
